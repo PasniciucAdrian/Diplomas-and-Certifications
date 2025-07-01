@@ -26,5 +26,4 @@ A showcase of formal certifications emphasizing verified expertise and skill adv
 
 ---
 
-## 📁 Folder Structure
 
