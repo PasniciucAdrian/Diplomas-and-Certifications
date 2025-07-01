@@ -1,9 +1,8 @@
 <h1 align="center">Diplomas and Certifications</h1>
 
 <p align="center">
-  <img src="certs-logos.png" alt="Certifications Logo" width="400"/>
+  <img src="./certs-logos.png" alt="Certifications Logo" width="400"/>
 </p>
-
 
 
 This repository contains official certifications obtained by **Adrian Pasniciuc**, showcasing verified professional development.
