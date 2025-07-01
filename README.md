@@ -4,8 +4,10 @@
   <img src="./newlogo.png" alt="Certifications Logo" width="400"/>
 </p>
 
+---
 
 A showcase of formal certifications emphasizing verified expertise and skill advancement.
+
 ---
 
 ## 📜 Certifications Included
@@ -26,4 +28,11 @@ A showcase of formal certifications emphasizing verified expertise and skill adv
 
 ---
 
+### ✅ OSF Academy
 
+- **Institution:** OSF Digital  
+- **Focus:** Quality Assurance  
+- **Details:** Practical training covering QA methodologies, software testing techniques, and industry tools  
+- **Document:** [`OSF Academy.pdf`](OSF%20Academy/OSF%20Academy.pdf)
+
+---
