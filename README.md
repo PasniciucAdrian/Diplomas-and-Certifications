@@ -5,8 +5,7 @@
 </p>
 
 
-This repository contains official certifications obtained by **Adrian Pasniciuc**, showcasing verified professional development.
-
+A showcase of formal certifications emphasizing verified expertise and skill advancement.
 ---
 
 ## 📜 Certifications Included
