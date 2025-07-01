@@ -1,8 +1,9 @@
 # Diplomas and Certifications
 
 <p align="center">
-  <img src="logos.png" alt="Certifications Logo" width="600"/>
+  <img src="logos.png" alt="Certifications Logo" width="300"/>
 </p>
+
 
 
 This repository contains official certifications obtained by **Adrian Pasniciuc**, showcasing verified professional development.
